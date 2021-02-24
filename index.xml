@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Linkq Tech</title>
+    <title>Firecat Tech</title>
     <link>firecattech.github.io/</link>
-    <description>Recent content on Linkq Tech</description>
+    <description>Recent content on Firecat Tech</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 19 Feb 2021 12:17:34 +0800</lastBuildDate><atom:link href="firecattech.github.io/index.xml" rel="self" type="application/rss+xml" />
@@ -41,7 +41,7 @@
       <guid>firecattech
         
         .github.io/posts/privacy-policy/</guid>
-      <description>Your privacy is important to us. It is LinkQ Tech’s policy to respect your privacy regarding any information we may collect from you across our products.
+      <description>Your privacy is important to us. It is Firecat Tech’s policy to respect your privacy regarding any information we may collect from you across our products.
 Currently, we run products including: LinkClock.
 We only ask for personal information when we truly need it to provide a service to you. We collect it by fair and lawful means, with your knowledge and consent. We also let you know why we’re collecting it and how it will be used.</description>
     </item>
