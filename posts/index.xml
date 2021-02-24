@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on Linkq Tech</title>
-    <link>linkqtech.github.io/posts/</link>
+    <link>firecattech.github.io/posts/</link>
     <description>Recent content in Posts on Linkq Tech</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 19 Feb 2021 12:17:34 +0800</lastBuildDate><atom:link href="linkqtech.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 19 Feb 2021 12:17:34 +0800</lastBuildDate><atom:link href="firecattech.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>隐私政策</title>
-      <link>linkqtech.github.io/posts/linkclock-privacy/</link>
+      <link>firecattech.github.io/posts/linkclock-privacy/</link>
       <pubDate>Fri, 19 Feb 2021 12:17:34 +0800</pubDate>
       
-      <guid>linkqtech.github.io/posts/linkclock-privacy/</guid>
+      <guid>firecattech.github.io/posts/linkclock-privacy/</guid>
       <description>时钟应用隐私政策
 尊敬的用户： 时钟应用是由 杭州盈瑞网络科技有限公司（以下简称“盈瑞公司”）为您提供的一款智能语音服务产品。盈瑞 公司十分尊重您的个人信息和数据，并会尽全力保护您的个人信息和数据的安全可靠。本政策仅适用于时钟 应用收集和存储的用户信息和数据。 请在使用时钟应用前，务必仔细阅读并了解和同意《时钟 应用的隐私政策》。该政策规定了您在使用 时钟 应用时我们将如何收集、使用、披露、处理和保护您提供给我们的信息。如果我们需要您提供某些信息用于在使用该产品时验证您的身份、以及向我们的第三方服务供应商连接服务时，我们会严格遵守该隐私政策来使用这些信息。如果您已经开始使用 时钟应用，就表示您已经阅读、许可并接受该隐私政策中所描述的所有条款，以及我们今后随时做出的任何变更。 另外，您需要承诺在您开始使用本产品时已经是成年人，如果您是未成年人，需要您的监护人同意您使用本产品并同意相关的服务条款和隐私政策。
 （1）时钟 应用怎样收集并使用您的信息（包括个人信息）
@@ -35,10 +35,10 @@
     
     <item>
       <title>Privacy Policy</title>
-      <link>linkqtech.github.io/posts/privacy-policy/</link>
+      <link>firecattech.github.io/posts/privacy-policy/</link>
       <pubDate>Tue, 22 Dec 2020 18:05:58 +0800</pubDate>
       
-      <guid>linkqtech.github.io/posts/privacy-policy/</guid>
+      <guid>firecattech.github.io/posts/privacy-policy/</guid>
       <description>Your privacy is important to us. It is LinkQ Tech’s policy to respect your privacy regarding any information we may collect from you across our products.
 Currently, we run products including: LinkClock.
 We only ask for personal information when we truly need it to provide a service to you. We collect it by fair and lawful means, with your knowledge and consent. We also let you know why we’re collecting it and how it will be used.</description>
