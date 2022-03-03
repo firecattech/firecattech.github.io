@@ -1,0 +1,54 @@
+{
+    "result": 200,
+    "info": {
+        "took": 1,
+        "timed_out": false,
+        "_shards": {
+            "total": 3,
+            "successful": 3,
+            "skipped": 0,
+            "failed": 0
+        },
+        "hits": {
+            "total": {
+                "value": 8276,
+                "relation": "eq"
+            },
+            "max_score": null,
+            "hits": []
+        },
+        "aggregations": {
+            "countType": {
+                "doc_count_error_upper_bound": 0,
+                "sum_other_doc_count": 0,
+                "buckets": [
+                    {
+                        "key": 3000,
+                        "doc_count": 3842
+                    },
+                    {
+                        "key": 8088,
+                        "doc_count": 1535
+                    },
+                    {
+                        "key": 80,
+                        "doc_count": 612
+                    },
+                    {
+                        "key": 8123,
+                        "doc_count": 603
+                    },
+                    {
+                        "key": 48888,
+                        "doc_count": 488
+                    },
+                    {
+                        "key": 12345,
+                        "doc_count": 302
+                    }
+                ]
+            }
+        },
+        "status": 200
+    }
+}
